@@ -1,10 +1,18 @@
+Préparation 
+
+Installation du moteur de templating Mustache en exécutant la commande suivante :
+npm install mustache --save
+
+Installation de Nodemon en tant que dépendance de développement pour l'actualisation automatique lors de la sauvegarde de modifications Js :
+npm install nodemon --save-dev
+
+
 Exercice 1 
 
 Ce code crée une application Express simple qui utilise Mustache pour le rendu des vues et bodyParser pour lire les données POST des formulaires. La route GET pour la page d'accueil rend la vue 'mon-template' avec un objet contenant la propriété 'MyName' et la valeur "Maxime".
 
 - Création de "mon-template.mustache" dans lequel crée une base HTML avec un h1 contenant une variable "MyName".
 - Création d'un index.Js contenant tous les parametres du moteur de views ainsi qu'une route Get définissant la variable "MyName"
-
 
 
 
