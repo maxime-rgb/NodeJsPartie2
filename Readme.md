@@ -7,6 +7,8 @@ Installation de Nodemon en tant que dépendance de développement pour l'actuali
 npm install nodemon --save-dev
 
 
+
+
 Exercice 1 
 
 Ce code crée une application Express simple qui utilise Mustache pour le rendu des vues et bodyParser pour lire les données POST des formulaires. La route GET pour la page d'accueil rend la vue 'mon-template' avec un objet contenant la propriété 'MyName' et la valeur "Maxime".
