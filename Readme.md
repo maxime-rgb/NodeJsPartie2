@@ -51,7 +51,7 @@ JSON
 
 
 Javascript
-- Création de l'index.js avec tous les parametres et la cocnfiguration du moteur de views (n'hésitez pas à vous inspirer du premier exercice ! )
+- Création de l'index.js avec tous les parametres et la configuration du moteur de views (n'hésitez pas à vous inspirer du premier exercice ! )
 
     - Création de la 1ere route get affichant la page d'accueil contenant notre formulaire et notre liste de personnages.
     - Création d'un message de succès si un personnage a été créé (if else une valuer success retournée lors de la validation du formulaire)
